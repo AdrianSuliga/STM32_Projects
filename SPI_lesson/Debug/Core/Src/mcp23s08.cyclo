@@ -1,0 +1,4 @@
+../Core/Src/mcp23s08.c:11:9:MCP_Register_Read	1
+../Core/Src/mcp23s08.c:24:9:MCP_GPIO_ReadPin	2
+../Core/Src/mcp23s08.c:37:6:MCP_Register_Write	1
+../Core/Src/mcp23s08.c:46:6:MCP_GPIO_WritePin	3

@@ -1,0 +1,4 @@
+../Core/Src/mcp23s08.c:11:9:MCP_Register_Read	24	static
+../Core/Src/mcp23s08.c:24:9:MCP_GPIO_ReadPin	24	static
+../Core/Src/mcp23s08.c:37:6:MCP_Register_Write	24	static
+../Core/Src/mcp23s08.c:46:6:MCP_GPIO_WritePin	24	static
