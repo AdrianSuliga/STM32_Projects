@@ -15,3 +15,4 @@ Repository holds exercises and projects done on STM32 microcontroller
 
 # I2C on LPS25HB
 - I2C_LPS25HB_lesson: Create library to handle reading pressure and temperature from LPS25HB sensor. Program uses those value to calculate height relative to place where the device was booted.
+- I2C_LPS25HB_exs: Expand library with function that measures ratio between reference pressure and current pressure. Reference pressure should be measured once and stored in REF_P register. Main program should use this to measure sensor's height relative to its position when it was first booted. This height than should be used to smoothly change RGB diode color, if the relative height is negative - set it to blue, if it is positive - set it to red. The bigger the absolute value of relative height, the brighter the diode should be
