@@ -1,0 +1,6 @@
+../Core/Src/lps25hb.c:29:16:LPS25HB_Read_Register	40	static
+../Core/Src/lps25hb.c:36:13:LPS25HB_Write_Register	32	static
+../Core/Src/lps25hb.c:41:19:LPS25HB_Init	8	static
+../Core/Src/lps25hb.c:53:6:LPS25HB_Set_Calibration	16	static
+../Core/Src/lps25hb.c:59:7:LPS25HB_Read_Temp	32	static
+../Core/Src/lps25hb.c:69:7:LPS25HB_Read_Pressure	32	static

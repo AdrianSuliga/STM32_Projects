@@ -9,6 +9,9 @@ Repository holds exercises and projects done on STM32 microcontroller
 # SPI on MCP23S08
 - SPI_Lesson: Project contains all SPI exs from FORBOT course. The aim of those exs was to create library to interact with MCP23S08 port expander. 
 
-# I2C and EEPROM 24AA01
+# I2C on EEPROM 24AA01
 - EEPROM_Lesson: Create library to handle writing and reading from EEPROM memory using I2C. Currently flashed program counts number of times when the microcontroller was booted.
 - EEPROM_exs: Add two buttons to previous project. Program should keep track of how many times it was booted and how many times one of the buttons was clicked. Those values should be stored in EEPROM memory. The second button should reset those values in EEPROM memory if it is clicked when the device is booting.
+
+# I2C on LPS25HB
+- I2C_LPS25HB_lesson: Create library to handle reading pressure and temperature from LPS25HB sensor. Program uses those value to calculate height relative to place where the device was booted.
