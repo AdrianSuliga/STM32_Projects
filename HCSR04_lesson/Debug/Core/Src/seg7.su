@@ -1,0 +1,4 @@
+../Core/Src/seg7.c:14:13:Set_Output	16	static
+../Core/Src/seg7.c:25:6:SEG7_Show_Digit	32	static
+../Core/Src/seg7.c:47:6:SEG7_Show	16	static
+../Core/Src/seg7.c:52:6:SEG7_Update	8	static
